@@ -123,20 +123,20 @@ section {
 }
 
 .top {
-    background-image: url(/img/expresso.jpg);
+    background-image: url('../img/expresso.jpg');
 }
 
 .middle-one {
-    background-image: url(/img/smartphone.jpg);
+    background-image: url('../img/smartphone.jpg');
 }
 
 .middle-two {
-    background-image: url(/img/busines.jpg);
+    background-image: url('../img/busines.jpg');
 }
 
 
 .bottom {
-    background-image: url(/img/award.jpg);
+    background-image: url('../img/award.jpg');
 }
 
 .about-us-text {
