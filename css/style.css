@@ -118,7 +118,6 @@ section {
 }
 
 .top {
-<<<<<<< HEAD
     background-image: url("../img/expresso.jpg");
 }
 
@@ -128,26 +127,10 @@ section {
 
 .middle-two {
     background-image: url("../img/busines.jpg");
-=======
-    background-image: url('../img/expresso.jpg');
 }
-
-.middle-one {
-    background-image: url('../img/smartphone.jpg');
-}
-
-.middle-two {
-    background-image: url('../img/busines.jpg');
->>>>>>> 1833e49f40173dba75220e2dec1f35dee857dc07
-}
-
 
 .bottom {
-<<<<<<< HEAD
     background-image: url("../img/award.jpg");
-=======
-    background-image: url('../img/award.jpg');
->>>>>>> 1833e49f40173dba75220e2dec1f35dee857dc07
 }
 
 .about-us-text {
@@ -187,9 +170,4 @@ footer {
 
 .foot-ico i:hover {
     color: rgb(153, 143, 143);
-<<<<<<< HEAD
 }
-=======
-    tra
-}
->>>>>>> 1833e49f40173dba75220e2dec1f35dee857dc07
