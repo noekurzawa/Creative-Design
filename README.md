@@ -1,3 +1,3 @@
-# Creative-Design
+# Mountain
 
-https://noekurzawa.github.io/Creative-Design/
+https://noekurzawa.github.io/Mountain/
